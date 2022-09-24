@@ -5,7 +5,7 @@ import 'dart:convert';
 import 'package:untitled2/coinCard.dart';
 import 'coinModel.dart';
 import 'package:http/http.dart' as http;
-
+// Git Checked
 class Home extends StatefulWidget {
   @override
   _HomeState createState() => _HomeState();
